@@ -36,8 +36,6 @@
     <div class="space-y-6">
       <p class="text-xl text-center">مرحبًا</p>
 
-      <!-- Username Input -->
-       <!-- Name Input -->
       <div class="relative w-full">
         <input
           type="text"
