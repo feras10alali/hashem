@@ -10,7 +10,7 @@ return {
 	assets: new Set([]),
 	mimeTypes: {},
 	_: {
-		client: {start:"_app/immutable/entry/start.DbrR-dZ6.js",app:"_app/immutable/entry/app.CGl2ErvD.js",imports:["_app/immutable/entry/start.DbrR-dZ6.js","_app/immutable/chunks/BEXdwwCD.js","_app/immutable/chunks/BW8aTVaI.js","_app/immutable/chunks/D4BJqEd1.js","_app/immutable/entry/app.CGl2ErvD.js","_app/immutable/chunks/DHAG0X1X.js","_app/immutable/chunks/BW8aTVaI.js","_app/immutable/chunks/D-BB90hW.js","_app/immutable/chunks/D4BJqEd1.js","_app/immutable/chunks/CgQJbJ8q.js","_app/immutable/chunks/B6Pj8jan.js","_app/immutable/chunks/B0zkCgEv.js","_app/immutable/chunks/Bd_8zUmT.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"_app/immutable/entry/start.D8W1GYyp.js",app:"_app/immutable/entry/app.CnUGuqTE.js",imports:["_app/immutable/entry/start.D8W1GYyp.js","_app/immutable/chunks/UChfqfEG.js","_app/immutable/chunks/BW8aTVaI.js","_app/immutable/chunks/D4BJqEd1.js","_app/immutable/entry/app.CnUGuqTE.js","_app/immutable/chunks/DHAG0X1X.js","_app/immutable/chunks/BW8aTVaI.js","_app/immutable/chunks/D-BB90hW.js","_app/immutable/chunks/D4BJqEd1.js","_app/immutable/chunks/CgQJbJ8q.js","_app/immutable/chunks/B6Pj8jan.js","_app/immutable/chunks/B0zkCgEv.js","_app/immutable/chunks/Bd_8zUmT.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			__memo(() => import('../output/server/nodes/0.js')),
 			__memo(() => import('../output/server/nodes/1.js')),
@@ -81,7 +81,3 @@ return {
 	}
 }
 })();
-
-export const prerendered = new Set([]);
-
-export const base_path = "";
